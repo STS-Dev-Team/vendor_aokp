@@ -29,6 +29,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/stingray.mk \
     $(LOCAL_DIR)/spyder.mk \
     $(LOCAL_DIR)/supersonic.mk \
+    $(LOCAL_DIR)/targa.mk \
     $(LOCAL_DIR)/tenderloin.mk \
     $(LOCAL_DIR)/tf101.mk \
     $(LOCAL_DIR)/tf201.mk \
