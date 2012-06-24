@@ -26,6 +26,7 @@ add_lunch_combo aokp_picasso-userdebug
 add_lunch_combo aokp_pyramid-userdebug
 add_lunch_combo aokp_showcasemtd-userdebug
 add_lunch_combo aokp_spyder-userdebug
+add_lunch_combo aokp_skyrocket-userdebug
 add_lunch_combo aokp_stingray-userdebug
 add_lunch_combo aokp_supersonic-userdebug
 add_lunch_combo aokp_targa-userdebug
