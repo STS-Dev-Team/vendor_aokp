@@ -1,5 +1,5 @@
 # Inherit AOSP device configuration for crespo.
-$(call inherit-product, device/moto/spyder/device_spyder.mk)
+$(call inherit-product, device/moto/maserati/device_maserati.mk)
 
 # Inherit common product files.
 $(call inherit-product, vendor/aokp/configs/common_phone.mk)
@@ -18,10 +18,10 @@ PRODUCT_DEVICE_PREFIX := cdma
 PRODUCT_MODEL := XT894
 PRODUCT_MANUFACTURER := Motorola
 PRODUCT_SFX := vzw
-ANDROID_VERSION := 4.0.4_r1.2
+ANDROID_VERSION := 4.0.4_r2.1
 #MOTOROLA_BUILD_ID := 6.7.2_180_DR4-16_M2-26
 MOTOROLA_BUILD_ID := IMM76D
-MOTOROLA_SOFTWARE_VERSION := 6.16.206
+MOTOROLA_SOFTWARE_VERSION := 6.16.211
 DATE := $(shell date +%Y%m%d)
 
 # Release name and versioning
