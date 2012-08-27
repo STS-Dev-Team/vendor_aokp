@@ -6,7 +6,12 @@ add_lunch_combo aokp_crespo-userdebug
 add_lunch_combo aokp_crespo4g-userdebug
 add_lunch_combo aokp_d2tmo-userdebug
 add_lunch_combo aokp_hercules-userdebug
+add_lunch_combo aokp_maserati-userdebug
 add_lunch_combo aokp_p3113-userdebug
 add_lunch_combo aokp_p5113-userdebug
+add_lunch_combo aokp_solana-userdebug
+add_lunch_combo aokp_spyder-userdebug
 add_lunch_combo aokp_stingray-userdebug
+add_lunch_combo aokp_targa-userdebug
+add_lunch_combo aokp_umts_spyder-userdebug
 add_lunch_combo aokp_wingray-userdebug
